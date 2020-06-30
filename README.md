@@ -24,3 +24,10 @@ This tool is organized and allows you to deal with a wide range of domains and s
 This tool is Easy to handle , i made a shortcuts to be more faster 
 
 
+![image tutorial](https://github.com/bwiko/bugbounty_checklist/blob/master/doc_images/tutorial.png)
+
+* add
+* add sub 
+* delete 
+* edite
+* lunch checklist 
