@@ -12,6 +12,13 @@ This tool is organized and allows you to deal with a wide range of domains and s
 * [sqlite3](https://docs.python.org/2/library/sqlite3.html) 
 
 
+## demo 
+
+* main window 
+ ![main window](https://github.com/bwiko/bugbounty_checklist/blob/master/doc_images/demo1.png)
+* check list interface 
+![check list window](https://github.com/bwiko/bugbounty_checklist/blob/master/doc_images/demo2.png)
+
 ## usage 
 
 This tool is Easy to handle , i made a shortcuts to be more faster 
