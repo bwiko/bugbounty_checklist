@@ -30,4 +30,4 @@ This tool is Easy to handle , i made a shortcuts to be more faster
 * add sub 
 * delete 
 * edite
-* lunch checklist 
+* lanch checklist 
