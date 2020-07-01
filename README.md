@@ -8,7 +8,7 @@ This tool is organized and allows you to deal with a wide range of domains and s
 ## requirement 
 
 * [PyQt5](https://pypi.org/project/PyQt5/): 
- pip3 install PyQt5
+    -pip3 install PyQt5
 * [python3](https://www.python.org/downloads/) 
 * [sqlite3](https://docs.python.org/2/library/sqlite3.html) 
 
