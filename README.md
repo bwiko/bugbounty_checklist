@@ -1,5 +1,6 @@
 # bugbounty_checklist
 ![icon](./doc_images/BClist.png =60x60) <br>
+<img src="./doc_images/BClist.png" alt="logo" width="60" height="60"/><br>
 This tool may help you to have a good methodology for bug bounty hunting
 this tool based on Bug [Bounty Checklist for Web App](https://github.com/sehno/Bug-bounty/blob/master/bugbounty_checklist.md#Single_domain) <br>
 This tool is organized and allows you to deal with a wide range of domains and subdomain
