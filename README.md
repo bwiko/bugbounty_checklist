@@ -1,5 +1,5 @@
 # bugbounty_checklist
-![icon](https://github.com/bwiko/bugbounty_checklist/blob/master/doc_images/BClist.png)
+![icon](https://github.com/bwiko/bugbounty_checklist/blob/master/doc_images/BClist.png). 
 This tool may help you to have a good methodology for bug bounty hunting
 this tool based on Bug [Bounty Checklist for Web App](https://github.com/sehno/Bug-bounty/blob/master/bugbounty_checklist.md#Single_domain) <br>
 This tool is organized and allows you to deal with a wide range of domains and subdomain
