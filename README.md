@@ -27,8 +27,18 @@ This tool is Easy to handle , i made a shortcuts to be more faster
 
 ![image tutorial](https://github.com/bwiko/bugbounty_checklist/blob/master/doc_images/tutorial.png)
 
-* add
-* add sub 
-* delete 
-* edite
-* lanch checklist 
+- **1** : 
+  - Add domain
+  - `Ctrl+A`
+- **2** : 
+  - Delete
+  - `Del`
+- **3** :
+  - add subdomain 
+  - `Ctrl+Alt+A`
+- **4** :
+  - Edite
+  - `Ctrl+M`
+- **5** :
+  - Open check list of current domain 
+  - `Ctrl+E`
