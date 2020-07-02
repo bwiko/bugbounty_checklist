@@ -35,7 +35,7 @@ This tool is Easy to handle , i made a shortcuts to be more faster
   - Delete
   - `Del`
 - **3** :
-  - add subdomain 
+  - Add subdomain 
   - `Ctrl+Alt+A`
 - **4** :
   - Edite
