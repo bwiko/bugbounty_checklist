@@ -4,7 +4,7 @@
 This tool may help you to have a good methodology for bug bounty hunting
 this tool based on [Bug Bounty Checklist for Web App](https://github.com/sehno/Bug-bounty/blob/master/bugbounty_checklist.md#Single_domain) <br>
 This tool is organized and allows you to deal with a wide range of domains and subdomain
-
+you can now add your methodology or use your friend methodology just by copying or creating the file too `./methodologys` 
 <br><br>
 ## requirement 
 
