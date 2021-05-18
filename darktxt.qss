@@ -1,0 +1,6 @@
+/*if there is any prblm with the theme when you is light theme you can just remov the # from #QWidget to fource the black text */
+
+QWidget {
+  color: #000000;
+  selection-color: #FFFFFF;
+}
