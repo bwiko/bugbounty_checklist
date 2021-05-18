@@ -15,11 +15,8 @@ This tool is organized and allows you to deal with a wide range of domains and s
 
 
 ## demo 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/fc5h5Lg24g8/0.jpg)](https://www.youtube.com/watch?v=fc5h5Lg24g8)
 
-* main window 
- ![main window](./doc_images/demo1.png)
-* check list interface 
-![check list window](./doc_images/demo2.png)
 
 ## usage 
 
