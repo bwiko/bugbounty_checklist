@@ -40,8 +40,12 @@ This tool is Easy to handle , i made a shortcuts to be more faster
 - **5** :
   - Open check list of current domain 
   - `Ctrl+E`
+- **Save the changes** :
+  - `Ctrl+S`
+- **Cancel** : 
+  - `Ech`
 
-- Save the changes :
- - `Ctrl+S`
-- Cancel : 
- - `Ech`
+## Some notes
+
+if you want to use the white theme mode just set the value of `Activ_white_mode` to `True` <be>
+this tool doesn't support multiple of windows yet
