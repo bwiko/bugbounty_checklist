@@ -17,6 +17,17 @@ You can now add your methodology or use your friend methodology just by copying 
 ## demo 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/fc5h5Lg24g8/0.jpg)](https://www.youtube.com/watch?v=fc5h5Lg24g8)
 
+## methodology file santax 
+```
+#syntax of the confige file 
+#tab_name:<title>Title_text 
+#tab_name:task_text
+#note evry task under a title will belong to that title 
+#example of title --> Recon:<title>Information Gathering 
+#example of task--> Recon:enumerate subdomain with subfinder
+#Always try to arrange tasks in "taps" from largest to smallest in terms of number of tasks
+
+```
 
 ## usage 
 
