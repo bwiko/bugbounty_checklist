@@ -41,7 +41,7 @@ This tool is Easy to handle , i made a shortcuts to be more faster
   - Open check list of current domain 
   - `Ctrl+E`
 - Save : 
- -Save the changes 
- -`Ctrl+S`
--Cancel : 
- -`Ech`
+ - Save the changes 
+ - `Ctrl+S`
+- Cancel : 
+ - `Ech`
