@@ -40,8 +40,8 @@ This tool is Easy to handle , i made a shortcuts to be more faster
 - **5** :
   - Open check list of current domain 
   - `Ctrl+E`
-- Save : 
- - Save the changes 
+
+- Save the changes :
  - `Ctrl+S`
 - Cancel : 
  - `Ech`
