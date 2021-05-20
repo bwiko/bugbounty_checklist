@@ -6,6 +6,9 @@ this tool based on [Bug Bounty Checklist for Web App](https://github.com/sehno/B
 This tool is organized and allows you to deal with a wide range of domains and subdomain <br>
 You can now add your methodology or use your friend methodology just by copying or creating the methodology file in `./methodologys` 
 <br><br>
+
+### NOTE : this version is beta if you have any problem feel free to inform us 
+
 ## requirement 
 
 * [PyQt5](https://pypi.org/project/PyQt5/) : 
