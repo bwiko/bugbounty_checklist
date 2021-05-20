@@ -25,16 +25,16 @@ Recon:Identify Debug parameters
 Recon:<title>Recon on wildcard domain
 Recon:Run Amass
 Recon:Run Subfinder
-Recon:Run Rapid7 FDNS
-Recon:Use commonspeak2 list
+Recon:Run assetfinder
+Recon:Run dnsgen
 Recon:Run massdns
-Recon:Run altdns
+Recon:Run httprobe
 Recon:Run massdns
 Recon:<title>Scanning
-Recon:Arachni Scan
-Recon:Owasp ZAp Scan
-Recon:Burp Spider
-Recon:Burp Scanning
+Recon:Nmap scan
+Recon:Burp crawler
+Recon:ffuf (directory and file fuzzing)
+Recon:hakrawler/gau/paramspider
 Recon:Wayback machine
 Recon:Linkfinder
 Recon:Url with Android application
